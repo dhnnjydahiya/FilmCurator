@@ -6,12 +6,8 @@
 ### Watch all your movies, shows and anime for free!
 </div>
 
-## Links:
-> Use an adblocker (uBlock-Origin) to remove player pop-ups
 #### Main Site:
-https://FilmCurator.vercel.app
-#### Mirrors:
-https://watch.coen.ovh 
+https://Film-Curator.vercel.app
 
 <br/>
 
@@ -22,19 +18,6 @@ https://watch.coen.ovh
 - Mobile PWA
 - Saves Watch History and Watchlist
 - Ad-free
-
-<br/>
-
-## Screenshots
-
-| PC                                  | Mobile                   |
-| ------------------------------------| -------------------------|
-| <img src="./screenshots/home.png" alt="home" width="750"/>     | <img src="./screenshots/mhome.png" alt="home" width="220"/> |
-| <img src="./screenshots/info.png" alt="info" width="750"/>     | <img src="./screenshots/minfo.png" alt="info" width="220"/> |
-| <img src="./screenshots/search.png" alt="search" width="750"/> | <img src="./screenshots/msearch.png" alt="search" width="220"/> |
-| <img src="./screenshots/user.png" alt="user" width="750"/>     | <img src="./screenshots/muser.png" alt="user" width="220"/> |
-
-<br/>
 
 
 ## 👨🏻‍💻 Run Locally
@@ -48,7 +31,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 - Clone the project
 
 ```bash
-  git clone https://github.com/coen-h/FilmCurator
+  git clone https://github.com/dhnnjydahiya/FilmCurator
 ```
 
 - Go to the project directory
